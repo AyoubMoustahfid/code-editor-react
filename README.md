@@ -2,7 +2,7 @@
 
 > This is the simple code editor made with react js and codemirror
 
- [Demo Link](https://simple-code-editor.vercel.app/)
+ [Demo Link](https://code-editor-react-ayoubmoustahfid-bipo.vercel.app/)
 
 
 Demo Pic:-
